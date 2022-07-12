@@ -17,7 +17,7 @@
 from math import floor, sqrt
 
 
-def main(n):
+def main(n: int) -> int:
     """
     For a given `n`,
       returns the least of the first `n` consecutive natural numbers
